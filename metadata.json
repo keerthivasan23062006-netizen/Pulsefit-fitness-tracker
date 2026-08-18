@@ -1,0 +1,7 @@
+{
+  "name": "PulseFit - Pro Fitness & Nutrition Tracker",
+  "description": "Comprehensive workout logger, live interval timer, macro nutrition tracker, body metrics analytics, and strength PR analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
